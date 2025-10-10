@@ -1,0 +1,12 @@
+import universidad.*
+describe "se describen los tes de la universidad"{
+
+method initialize() {
+  
+}
+
+test"test 1"{
+    assert.equals(Materia, Carrera)
+}
+
+}
